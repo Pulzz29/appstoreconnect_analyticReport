@@ -23,20 +23,6 @@ This Python package provides a convenient interface to **download Analytics Repo
 
 ---
 
-## 📦 Installation
-
-```bash
-pip install surquest-utils-appstoreconnect-analyticsreports
-```
-
-> Or clone this repo:
-
-```bash
-git clone git@github.com:surquest/python-appstoreconnect-analyticsreports.git
-cd src/surquest/utils
-pip install --no-cache-dir -r requirements.txt
-```
----
 
 ## 🔧 Setup
 
